@@ -61,31 +61,40 @@ body {
 
 #icons {
   text-align: center;
-  bottom: 5px;
-  padding-right: 10px;
-  padding-left: 10px;
 }
 
 #icons .facebook:hover {
   background: linear-gradient(blue, #1E35CD);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  bottom: 5px;
+  padding-right: 10px;
+  padding-left: 10px;
 }
 
 #icons .linkedin:hover {
   background: linear-gradient(#7486FA, #4D60DE);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  bottom: 5px;
+  padding-right: 10px;
+  padding-left: 10px;
 }
 
 #icons .instagram:hover {
   background: linear-gradient(red, yellow);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  bottom: 5px;
+  padding-right: 10px;
+  padding-left: 10px;
 }
 
 #icons .github:hover {
   background: linear-gradient(#AD61FA, #D9C5ED);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  bottom: 5px;
+  padding-right: 10px;
+  padding-left: 10px;
 }
