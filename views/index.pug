@@ -1,5 +1,20 @@
 extends layout
 
+
 block content
-  h1= title
-  p Welcome to #{title}
+  section#logo
+    .container
+      .row
+        .col-md-12.text-center
+          img.img-fluid(src='/images/logo.png')
+          h1.gray Personify
+  section#intro
+    .container
+      .row
+        .col-md-12
+          p.gray We're working hard, we'll be ready to launch soon...
+  section#counter
+    .container
+      .row
+        .col-md-12
+          .countdown
