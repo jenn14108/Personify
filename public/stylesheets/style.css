@@ -19,6 +19,13 @@ body {
     background-color: #B8B8B8;
 }
 
+#aboutbtn li.nav-item{
+  display: flex;
+  position: absolute;
+  right: 47.5%;
+
+}
+
 #logo img {
   margin: 0 auto !important;
   position:relative;
