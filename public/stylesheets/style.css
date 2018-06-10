@@ -117,10 +117,12 @@ body {
 
 /* Search bar for the explore page */
 .searchbar input[type=text] {
-  display: block;
-  text-align: center;
   /* margin allows page to scroll, makes page longer */
   margin: 0px;
   width: 50%;
+  left: 24.5%;
+  /* moves the search bar to center of page */
+  top: 286px;
   padding: 14px;
+  position: absolute;
 }
