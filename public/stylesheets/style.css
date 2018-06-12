@@ -185,7 +185,7 @@ body {
   position: absolute;
 }
 
-#todoForm   button.btn {
+#todoForm button.btn {
   color: #d9d9d9;
   opacity: 0.5;
   background: transparent;
@@ -196,4 +196,8 @@ body {
   left: 72%;
   top: 390px;
   position: absolute;
+}
+
+#todoForm p.custom {
+  font-size: 25pt;
 }
