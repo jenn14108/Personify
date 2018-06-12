@@ -161,3 +161,9 @@ body {
   padding-top: 100px;
   font-size: 60pt;
 }
+
+#diaryIcons i.fa.fa-pencil {
+  color:#F0E68C;
+  padding: 14px;
+  position: absolute;
+}
